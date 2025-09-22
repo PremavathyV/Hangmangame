@@ -15,6 +15,7 @@ This is a simple command-line based **Hangman Game** built using Python. The pla
 - 🐍 **Python 3**
 - `random` module
 
+
 ## 📂 Project Structure
 ```
 hangman/
